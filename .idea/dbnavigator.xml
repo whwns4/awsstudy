@@ -35,9 +35,7 @@ select * from test;]]></console>
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="ef39b9c4-e362-4789-81f3-93827710ee80" object-ref="consoles/awsstudy" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="ef39b9c4-e362-4789-81f3-93827710ee80" />
